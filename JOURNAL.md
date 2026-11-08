@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/ea53e0vlks5hipvlrwkxu37a)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> I'll be making a macropad complete with a rotary button and some other designs.
+> I'll be making a macropad complete with a rotary button and some other designs. It'll have 4 buttons, and a rotary encoder to adjust volume, all powered by a XIAO RP2040
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
