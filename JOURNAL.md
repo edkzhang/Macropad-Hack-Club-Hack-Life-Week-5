@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 37h | 4 |
+| Week 5 | Tier 1 | 39h | 4 |
 
 ## Contents
 
@@ -43,7 +43,7 @@ I started off my project by doing some research on what I planned to do. I origi
 
 ### 2026-11-05: This time, I started off by adding the footprints. I had to decide on what type of keys I wanted to use and the footprints for each of these parts which were somewhat challenging.  Probably the hardes
 
-**6h**
+**8h**
 
 This time, I started off by adding the footprints. I had to decide on what type of keys I wanted to use and the footprints for each of these parts which were somewhat challenging.  Probably the hardest part. I then updated the schematic into the PCB editor, and it looked kind of simple so I decided to add one of those rotation buttons called a rotary encoder. I chose a specific type and went back to the schematic to update it. I then imported it into the PCB editor and began to work the dimensions. I arranged the buttons into a 2x2 shape and set the distance between J1 and J2 to be 15.24mm apart with the USB facing up to fit the part. I then added the Edge.Cuts border around in a 71x46mm dimension. There were some minor challenges along the way, and I had to get some help with choosing the specific parts. Dimensioning was also kind of annoying. After this, I'll be adding mounting holes to put it in a 3D designed case.
 
@@ -58,6 +58,12 @@ This time, I started off by adding the footprints. I had to decide on what type 
 ![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/f95d01dba2a2182d8b5c37b9d584c15a55b74e847ab69184266be55d30477a35.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/39fe07fd5e773d87fdd1e9e709c9d888fa615355c5cf7c23cacf8ba2ada897d9.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/7ead68c47b30485099c97283b557bdb4f4201711be502d64ddb9b10aba7b1919.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/648e51a2d8d804501c851db1b5db0b84fc62843707bec1c18c15866821338a03.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/8fb6d5ea67164774a6f1512c1419432ca01e8ea5202df7784205c31bdec455ea.png)
 
 ### 2026-11-08: I started by creating the mounting holes for the macropad. I went back to the schematic and inserted 3 of these holes so I could screw them into a case. I then assigned a footprint for each and saved
 
