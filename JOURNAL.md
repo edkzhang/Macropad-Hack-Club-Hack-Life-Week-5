@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 35h | 4 |
+| Week 5 | Tier 1 | 37h | 4 |
 
 ## Contents
 
@@ -23,7 +23,7 @@
 
 ### 2026-11-05: I started off my project by doing some research on what I planned to do. I originally planned to make some sort of clock that sprayed water but that proved difficult given the time constraints. I then
 
-**5h**
+**7h**
 
 I started off my project by doing some research on what I planned to do. I originally planned to make some sort of clock that sprayed water but that proved difficult given the time constraints. I then shifted towards the macropod project. It seemed fun to design an extension of your keyboard that has its own key binds you can use. At last, I settled with the XIAO RP2040 with 4 buttons and 7 pins on each side and began mapping things out. I began my project on KiCad where I created a folder and started the schematic. I first inserted two JConn 01x07s and 4 SW_Push. I labeled and closed off the connectors to get this schematic. There weren't any major challenges yet except researching. Everything else was remotely easy. There was, however, a problem that came up in the ERC (electric rules checker) regarding the GND power input and the unconnected "no connect flag." That was fixed pretty quickly.
 
@@ -36,6 +36,10 @@ I started off my project by doing some research on what I planned to do. I origi
 ![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/5a147014f720e6d191e07b919633295a09dc0900b48874eb493d895690dcaead.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/bbac8da00f44400e66c58185f13bf8a08bb39ef26ad71e801652f9ae5728294f.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/1a4c467fbc0502ac123cf47672ff39c329f5a0e9b0eaaceb3909141a4eff7516.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/b423fb2e2bb208fa357dfb9d450f903bb00d7e54dde96b6c84cbfd97a7cf4c82.png)
 
 ### 2026-11-05: This time, I started off by adding the footprints. I had to decide on what type of keys I wanted to use and the footprints for each of these parts which were somewhat challenging.  Probably the hardes
 
