@@ -25,3 +25,5 @@ Below are some pictures I've attached for reference:
 It was a learning experience, and there were a lot of obstacles, but it was in general, surprisingly easy. Just time consuming :)
 
 Resources should be attached (code isn't complete yet though... still waiting on items)
+
+Also here is the Onshape link https://cad.onshape.com/documents/8fd9e0ac32af106aeaeabfac/w/bef8a4bf6317e775788e6ece/e/aef69187f31f4a969cc7ad7b
